@@ -1,0 +1,10 @@
+C:\Users\layn\Desktop\visual studio\EsayTraining_Application\EsayTraining_Application\bin\Debug\EsayTraining_Application.exe.config
+C:\Users\layn\Desktop\visual studio\EsayTraining_Application\EsayTraining_Application\bin\Debug\EsayTraining_Application.exe
+C:\Users\layn\Desktop\visual studio\EsayTraining_Application\EsayTraining_Application\bin\Debug\EsayTraining_Application.pdb
+C:\Users\layn\Desktop\visual studio\EsayTraining_Application\EsayTraining_Application\obj\Debug\EsayTraining_Application.csprojResolveAssemblyReference.cache
+C:\Users\layn\Desktop\visual studio\EsayTraining_Application\EsayTraining_Application\obj\Debug\EsayTraining_Application.Properties.Resources.resources
+C:\Users\layn\Desktop\visual studio\EsayTraining_Application\EsayTraining_Application\obj\Debug\EsayTraining_Application.csproj.GenerateResource.Cache
+C:\Users\layn\Desktop\visual studio\EsayTraining_Application\EsayTraining_Application\obj\Debug\EsayTraining_Application.exe
+C:\Users\layn\Desktop\visual studio\EsayTraining_Application\EsayTraining_Application\obj\Debug\EsayTraining_Application.pdb
+C:\Users\layn\Desktop\visual studio\EsayTraining_Application\EsayTraining_Application\obj\Debug\EsayTraining_Application.MDI_MainForm.resources
+C:\Users\layn\Desktop\visual studio\EsayTraining_Application\EsayTraining_Application\obj\Debug\EsayTraining_Application.frmGroups.resources
