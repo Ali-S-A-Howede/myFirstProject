@@ -1,0 +1,6 @@
+C:\Users\layn\Desktop\visual studio\functions01\functions01\bin\Debug\functions01.exe.config
+C:\Users\layn\Desktop\visual studio\functions01\functions01\bin\Debug\functions01.exe
+C:\Users\layn\Desktop\visual studio\functions01\functions01\bin\Debug\functions01.pdb
+C:\Users\layn\Desktop\visual studio\functions01\functions01\obj\Debug\functions01.csprojResolveAssemblyReference.cache
+C:\Users\layn\Desktop\visual studio\functions01\functions01\obj\Debug\functions01.exe
+C:\Users\layn\Desktop\visual studio\functions01\functions01\obj\Debug\functions01.pdb
