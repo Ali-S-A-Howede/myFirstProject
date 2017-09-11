@@ -1,0 +1,9 @@
+C:\Users\layn\Desktop\visual studio\First_Csharp_app\First_Csharp_app\bin\Debug\First_Csharp_app.exe.config
+C:\Users\layn\Desktop\visual studio\First_Csharp_app\First_Csharp_app\bin\Debug\First_Csharp_app.exe
+C:\Users\layn\Desktop\visual studio\First_Csharp_app\First_Csharp_app\bin\Debug\First_Csharp_app.pdb
+C:\Users\layn\Desktop\visual studio\First_Csharp_app\First_Csharp_app\obj\Debug\First_Csharp_app.csprojResolveAssemblyReference.cache
+C:\Users\layn\Desktop\visual studio\First_Csharp_app\First_Csharp_app\obj\Debug\First_Csharp_app.Form1.resources
+C:\Users\layn\Desktop\visual studio\First_Csharp_app\First_Csharp_app\obj\Debug\First_Csharp_app.Properties.Resources.resources
+C:\Users\layn\Desktop\visual studio\First_Csharp_app\First_Csharp_app\obj\Debug\First_Csharp_app.csproj.GenerateResource.Cache
+C:\Users\layn\Desktop\visual studio\First_Csharp_app\First_Csharp_app\obj\Debug\First_Csharp_app.exe
+C:\Users\layn\Desktop\visual studio\First_Csharp_app\First_Csharp_app\obj\Debug\First_Csharp_app.pdb
